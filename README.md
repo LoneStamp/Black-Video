@@ -4,7 +4,7 @@
 
 A video player integrated with a wide variety of playback functionalities.
 
-In the meantime, *BlackVideo* has several core nor main playback functionalities, namely: `Accessories`, `OSINT`, and `Plug-ins/Establishment`. To see each feature category, go to <a href=""><div id="features">↓ Features ↓</div></a>
+In the meantime, *BlackVideo* has several core nor main playback functionalities, namely: `Accessories`, `OSINT`, and `Plug-ins/Establishment`. To see each feature category, go to <a href="">↓ Features ↓</a>
 
 ## Badges
 
