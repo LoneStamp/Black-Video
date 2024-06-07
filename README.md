@@ -70,19 +70,28 @@ Install my-project with npm
     
 ## Environment Variables
 
-## Environment Variables
+**Note**: APIs have request limits for optimal performance. Fill in your own API keys. The percentage levels indicate how strongly it is recommended for users to provide their own API keys.
 
-**Note**: API has a request limit for best performance for use. Fill your own API. The percentage level tells if the required statements are recommended to the user to provide their own API.
+- Below is a guide for the requirement level on whether to provide custom APIs:
 
-| API        | Description                                         |
-|------------|-----------------------------------------------------|
-| Google     | Google Search API                                   |
-| Yandex     | Yandex Search API                                   |
-| YouTube    | YouTube Data API                                    |
-| Facebook   | Facebook Graph API                                  |
-| Wikipedia  | Wikipedia API                                       |
-| IMDb       | IMDb API                                            |
-| Wiki Fandom| Wiki Fandom API                                     |
+| Requirement Level | Description           |
+|-------------------|-----------------------|
+| 0% - 20%          | No Need               |
+| 20% - 40%         | Rarely Needed         |
+| 40% - 60%         | Advisable             |
+| 60% - 80%         | Recommended           |
+| 80% - 100%        | Highly Recommended    |
+
+| API         | Description                                         | Requirement Level   |
+|-------------|-----------------------------------------------------|---------------------|
+| Google      | Google Search API                                   | 100% (Highly Recommended) |
+| Yandex      | Yandex Search API                                   | 100% (Highly Recommended) |
+| YouTube     | YouTube Data API                                    | 100% (Highly Recommended) |
+| Facebook    | Facebook Graph API                                  | 60% (Recommended)         |
+| Wikipedia   | Wikipedia API                                       | 40% (Advisable)           |
+| IMDb        | IMDb API                                            | 60% (Recommended)         |
+| Wiki Fandom | Wiki Fandom API                                     | 20% (Rarely Needed)       |
+
 
 
 ## Features
