@@ -70,11 +70,20 @@ Install my-project with npm
     
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+## Environment Variables
 
-`API_KEY`
+**Note**: API has a request limit for best performance for use. Fill your own API. The percentage level tells if the required statements are recommended to the user to provide their own API.
 
-`ANOTHER_API_KEY`
+| API        | Description                                         |
+|------------|-----------------------------------------------------|
+| Google     | Google Search API                                   |
+| Yandex     | Yandex Search API                                   |
+| YouTube    | YouTube Data API                                    |
+| Facebook   | Facebook Graph API                                  |
+| Wikipedia  | Wikipedia API                                       |
+| IMDb       | IMDb API                                            |
+| Wiki Fandom| Wiki Fandom API                                     |
+
 
 ## Features
 
