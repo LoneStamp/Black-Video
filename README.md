@@ -72,8 +72,9 @@ Install my-project with npm
     
 ## Environment Variables
 
-**Note**: APIs have request limits for optimal performance. Fill in your own API keys. The percentage levels indicate how strongly it is recommended for users to provide their own API keys.
+**Note**: APIs have request limits for optimal performance. Fill in your own API keys.
 
+- The percentage levels indicate how strongly it is recommended for users to provide their own API keys.
 - Below is a guide for the requirement level on whether to provide custom APIs:
 
 | Requirement Level | Description           |
@@ -86,13 +87,13 @@ Install my-project with npm
 
 | API         | Description                                         | Requirement Level   |
 |-------------|-----------------------------------------------------|---------------------|
-| Google      | Google Search API                                   | 100% (Highly Recommended) |
-| Yandex      | Yandex Search API                                   | 100% (Highly Recommended) |
-| YouTube     | YouTube Data API                                    | 100% (Highly Recommended) |
-| Facebook    | Facebook Graph API                                  | 60% (Recommended)         |
-| Wikipedia   | Wikipedia API                                       | 40% (Advisable)           |
-| IMDb        | IMDb API                                            | 60% (Recommended)         |
-| Wiki Fandom | Wiki Fandom API                                     | 20% (Rarely Needed)       |
+| Google      | <a href="">Google Search API</a>                    | 100% (Highly Recommended) |
+| Yandex      |  <a href="">Yandex Search API</a>                   | 100% (Highly Recommended) |
+| YouTube     |  <a href="">YouTube Data API</a>                    | 100% (Highly Recommended) |
+| Facebook    |  <a href="">Facebook Graph API</a>                  | 60% (Recommended)         |
+| Wikipedia   |  <a href="">Wikipedia API</a>                       | 40% (Advisable)           |
+| IMDb        |  <a href="">IMDb API</a>                            | 60% (Recommended)         |
+| Wiki Fandom |  <a href="">Wiki Fandom API</a>                     | 20% (Rarely Needed)       |
 
 
 
