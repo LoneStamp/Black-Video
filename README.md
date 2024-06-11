@@ -26,17 +26,18 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 9. [Features](#features)
 10. [Optimizations](#optimizations)
 11. [Lessons Learned](#lessons-learned)
-12. [Related](#related)
-13. [Used By](#used-by)
-14. [FAQ](#faq)
-15. [Feedback](#feedback)
-16. [License](#license)
-17. [Contributing](#contributing)
-18. [Support](#support)
-19. [Authors](#authors)
-20. [Acknowledgements](#acknowledgements)
-21. [References](#references)
-22. [Appendix](#appendix)
+12. [Downloads](#downloads)
+13. [Related](#related)
+14. [Used By](#used-by)
+15. [FAQ](#faq)
+16. [Feedback](#feedback)
+17. [License](#license)
+18. [Contributing](#contributing)
+19. [Support](#support)
+20. [Authors](#authors)
+21. [Acknowledgements](#acknowledgements)
+22. [References](#references)
+23. [Appendix](#appendix)
 
 ## Preface
 
@@ -111,6 +112,8 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+## Downloads
 
 ## Related
 
