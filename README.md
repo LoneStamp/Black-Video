@@ -1,10 +1,27 @@
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-# BlackVideo
+# Appname and Version
+ *BlackVideo* **1.1.01.0001**
 
-A video player integrated with a wide variety of playback functionalities.
+## Description
+- A video player integrated with a wide variety of playback functionalities.
+- Try your watch experience of videos, clips, and movies with BlackVideo.
+- In the meantime, *BlackVideo* has several core nor main playback functionalities, namely: `Accessories`, `OSINT`, and `Plug-ins/Establishment`. To see each feature category, go to <a href="">↓ Features ↓</a>
 
-In the meantime, *BlackVideo* has several core nor main playback functionalities, namely: `Accessories`, `OSINT`, and `Plug-ins/Establishment`. To see each feature category, go to <a href="">↓ Features ↓</a>
+## Date created
+12/23/2023 at 8:55 AM
+
+## Completion date
+[000000] at
+
+## Date published
+[000000] at
+
+## Developer/Authors by
+- [@octokatherine](https://www.github.com/octokatherine)
+
+## Copyright
+© 2024 BlackVideo
 
 ## Badges
 
@@ -114,6 +131,24 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 ## Downloads
+Available on:
+
+- Desktop
+---
+| Linux | Windows | Mac |
+|--|--|--|
+|![linux](https://github.com/LoneStamp99/Vvdo/assets/93658802/aaad78d0-6e4f-4dec-9586-207b86a4a6ff)|![windows-logo](https://github.com/LoneStamp99/Vvdo/assets/93658802/16780aaa-10e5-4b63-87ac-0edfe30c0053)|![mac](https://github.com/LoneStamp99/Vvdo/assets/93658802/2c26d1c7-b2dc-4e42-a3d7-f2ab25e88b45)|
+
+- Mobile
+---
+| Android | IOS |
+|--|--|
+|![android](https://github.com/LoneStamp99/Vvdo/assets/93658802/4bda63de-cd31-4d34-8afc-00f445fe66b6)|![ios](https://github.com/LoneStamp99/Vvdo/assets/93658802/a7cbc065-4ef7-4bf7-a633-1e8e631717ff)|
+
+
+- Web
+---
+[BlackVivido]
 
 ## Related
 
@@ -167,6 +202,9 @@ For support, email fake@fake.com or join our Slack channel.
 - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+## Privacy Policy and Terms of Service
+To learn more about how we collect, store, and use user data, please read our Privacy Policy at [Link to Privacy Policy]. Our Terms of Service govern the use of BlackVivido or Vvdo and can be found at [Link to Terms of Service]. By using our app, you agree to these terms.
 
 ## References
 
